@@ -8,7 +8,7 @@ const secondsElement = document.querySelector('.timer:nth-child(4) .flip-card');
 function updateTimer() {
   let previous;
   setInterval(() => {
-    const launchDate = new Date('2026-01-01T00:00:00Z');
+    const launchDate = new Date().setHours(new Date().getHours() + 2080);
     const currentDate = new Date();
     const timeDifference = Math.floor((launchDate - currentDate) / 1000);
     if (timeDifference !== previous) {
