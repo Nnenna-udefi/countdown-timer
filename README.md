@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Nnenna-udefi/countdown-timer](https://github.com/Nnenna-udefi/countdown-timer)
+- Live Site URL: [https://nnenna-udefi.github.io/countdown-timer/](https://nnenna-udefi.github.io/countdown-timer/)
 
 ## My process
 
